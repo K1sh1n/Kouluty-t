@@ -17,9 +17,22 @@ Nuoli nuoli = new Nuoli()
 int hinta = nuoli.PalautaHinta();
 Console.WriteLine("Tämän nuolen hinta on " + hinta + " kultaa");
 class Nuoli {
-    public Karki karki;
-    public Pera pera;
-    public int pituus;
+    private Karki karki;
+    private Pera pera;
+    private int pituus;
+
+    public Karki GetKarki()
+    {
+        return karki;
+    }
+    public Pera GetPera()
+    {
+        return pera;
+    }
+    public int GetPituus()
+    {
+        return pituus;
+    }
     public int PalautaHinta()
     {
         int karkiHinta = (int)karki;

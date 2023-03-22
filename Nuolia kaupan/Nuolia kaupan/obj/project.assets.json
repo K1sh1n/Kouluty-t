@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Ryzen\\source\\repos\\Nuolia kaupan\\Nuolia kaupan\\Nuolia kaupan.csproj",
+      "projectUniqueName": "C:\\Users\\Ryzen\\OneDrive\\Työpöytä\\kouluhommat\\Nuolia kaupan\\Nuolia kaupan\\Nuolia kaupan.csproj",
       "projectName": "Nuolia kaupan",
-      "projectPath": "C:\\Users\\Ryzen\\source\\repos\\Nuolia kaupan\\Nuolia kaupan\\Nuolia kaupan.csproj",
+      "projectPath": "C:\\Users\\Ryzen\\OneDrive\\Työpöytä\\kouluhommat\\Nuolia kaupan\\Nuolia kaupan\\Nuolia kaupan.csproj",
       "packagesPath": "C:\\Users\\Ryzen\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Ryzen\\source\\repos\\Nuolia kaupan\\Nuolia kaupan\\obj\\",
+      "outputPath": "C:\\Users\\Ryzen\\OneDrive\\Työpöytä\\kouluhommat\\Nuolia kaupan\\Nuolia kaupan\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Ryzen\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -51,17 +51,11 @@
           "net47",
           "net471",
           "net472",
-          "net48",
-          "net481"
+          "net48"
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "frameworkReferences": {
-          "Microsoft.NETCore.App": {
-            "privateAssets": "all"
-          }
-        },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.405\\RuntimeIdentifierGraph.json"
       }
     }
   }
