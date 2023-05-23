@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\s2100950\\Source\\Repos\\Kouluty-t\\Nuolia kaupan\\Nuolia kaupan\\Nuolia kaupan.csproj": {}
+    "C:\\Users\\s2100950\\source\\repos\\Kouluty-t\\Nuolia kaupan\\Nuolia kaupan\\Nuolia kaupan.csproj": {}
   },
   "projects": {
-    "C:\\Users\\s2100950\\Source\\Repos\\Kouluty-t\\Nuolia kaupan\\Nuolia kaupan\\Nuolia kaupan.csproj": {
+    "C:\\Users\\s2100950\\source\\repos\\Kouluty-t\\Nuolia kaupan\\Nuolia kaupan\\Nuolia kaupan.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\s2100950\\Source\\Repos\\Kouluty-t\\Nuolia kaupan\\Nuolia kaupan\\Nuolia kaupan.csproj",
+        "projectUniqueName": "C:\\Users\\s2100950\\source\\repos\\Kouluty-t\\Nuolia kaupan\\Nuolia kaupan\\Nuolia kaupan.csproj",
         "projectName": "Nuolia kaupan",
-        "projectPath": "C:\\Users\\s2100950\\Source\\Repos\\Kouluty-t\\Nuolia kaupan\\Nuolia kaupan\\Nuolia kaupan.csproj",
+        "projectPath": "C:\\Users\\s2100950\\source\\repos\\Kouluty-t\\Nuolia kaupan\\Nuolia kaupan\\Nuolia kaupan.csproj",
         "packagesPath": "C:\\Users\\s2100950\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\s2100950\\Source\\Repos\\Kouluty-t\\Nuolia kaupan\\Nuolia kaupan\\obj\\",
+        "outputPath": "C:\\Users\\s2100950\\source\\repos\\Kouluty-t\\Nuolia kaupan\\Nuolia kaupan\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\s2100950\\AppData\\Roaming\\NuGet\\NuGet.Config",
