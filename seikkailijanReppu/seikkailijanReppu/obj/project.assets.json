@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Ryzen\\source\\repos\\seikkailijanReppu\\seikkailijanReppu\\seikkailijanReppu.csproj",
+      "projectUniqueName": "C:\\Users\\Ryzen\\OneDrive\\Työpöytä\\kouluhommat\\seikkailijanReppu\\seikkailijanReppu\\seikkailijanReppu.csproj",
       "projectName": "seikkailijanReppu",
-      "projectPath": "C:\\Users\\Ryzen\\source\\repos\\seikkailijanReppu\\seikkailijanReppu\\seikkailijanReppu.csproj",
+      "projectPath": "C:\\Users\\Ryzen\\OneDrive\\Työpöytä\\kouluhommat\\seikkailijanReppu\\seikkailijanReppu\\seikkailijanReppu.csproj",
       "packagesPath": "C:\\Users\\Ryzen\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Ryzen\\source\\repos\\seikkailijanReppu\\seikkailijanReppu\\obj\\",
+      "outputPath": "C:\\Users\\Ryzen\\OneDrive\\Työpöytä\\kouluhommat\\seikkailijanReppu\\seikkailijanReppu\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Ryzen\\AppData\\Roaming\\NuGet\\NuGet.Config",
