@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "kXl9SyWWXRs9m1y/lyIjiqDQcX72atGmIZleuEjcVBmRWMR18Cmy+nB5E1M4qAcJjg+FM7dZYaret9a+sU+6zA==",
+  "dgSpecHash": "FLE9fbUg3t9hzEw+DJMZjlEyuuzK2W9p7NNah0X/hm5GeTwyHUoKH8kgmtNj6QG/5sDzNzJOpCCOIslgkFTN3A==",
   "success": true,
   "projectFilePath": "C:\\Users\\Ryzen\\OneDrive\\Työpöytä\\kouluhommat\\seikkailijanReppu\\seikkailijanReppu\\seikkailijanReppu.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Ryzen\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
   "logs": []
 }

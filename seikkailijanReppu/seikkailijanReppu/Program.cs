@@ -61,7 +61,7 @@ class Vesi : Tavara
     {
         return "Vesi";
     }
-
+}
     class RuokaAnnos : Tavara
     {
 
@@ -127,8 +127,8 @@ class Vesi : Tavara
 
     }
 
-    class Program
-    {
+class Program
+{
         static void Main()
         {
             // Luodaan uusi reppu
@@ -181,5 +181,4 @@ class Vesi : Tavara
                 }
             }
         }
-    }
 }
